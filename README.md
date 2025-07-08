@@ -10,4 +10,8 @@ Excel/CSV (for data source)
 Special thanks to Power BI and Microsoft Data tools for providing intuitive visualization capabilities.
 
 
+
+
+
 # SALES-DASHBOARD
+![image](https://github.com/user-attachments/assets/62e494e9-4280-43d6-bff2-7a658186ff6e)
